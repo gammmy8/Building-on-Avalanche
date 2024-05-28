@@ -1,15 +1,19 @@
-#Building on Avalanche Token
+# 
+Building on Avalanche Token
 
-## Introduction
+## 
+Introduction
 
 Welcome to the Degen ERC20 Token project! This repository contains the Solidity smart contract code for the Degen ERC20 token. The Degen ERC20 token is a standard Ethereum ERC20 token designed for various use cases such as decentralized finance (DeFi), gaming, and more.
 
-## Token Details
+## 
+Token Details
 
 - **Token Name**: DegenToken
 - **Symbol**: DGN
 
-## Features
+## 
+Features
 
 The "DegenToken" token contract provides the following features:
 
@@ -19,7 +23,8 @@ The "DegenToken" token contract provides the following features:
 4. Setting item prices: The contract owner can set the prices of items in the in-game store.
 5. Balance transfer: Users can transfer tokens from their own balance to another address using the standard ERC20 `transfer` function.
 
-## Author
+## 
+Author
 
 - **Author**: Gamalliel Tamaca
 
